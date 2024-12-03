@@ -9,7 +9,7 @@ This repository contains the code and data for an empirical study examining open
 Contains raw and processed data files used in the analysis, organized by research question (RQ).
 
 * **`RQ1/`**
-  This folder contains data for Research Question 1, focusing on early data collection and exploratory analysis (files in this folder are not specified in this structure but may contain raw data for RQ1).
+  
 * **`RQ2/`**
   This folder contains processed data related to Research Question 2, which focuses on the factors that affect project funding on OpenCollective:
 
